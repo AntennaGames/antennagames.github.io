@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Antenna Games Data Privacy Policy | Ogre Chambers 2222"
+    />
+
+    <title>Antenna Games | Data Privacy Policy | Ogre Chambers 2222</title>
+<style>
+body {
+font-family: Arial, Helvetica, sans-serif;
+line-height: 1.6;
+max-width: 900px;
+margin: 40px auto;
+padding: 0 16px;
+color: #222;
+}
+h1, h2 {
+color: #111;
+}
+h1 {
+margin-bottom: 0.2em;
+}
+.date {
+color: #666;
+margin-bottom: 2em;
+}
+</style>    
+
+    <link rel="icon" href="/favicon.png" type="image/png" />
+
+    <meta property="og:title" content="Antenna Games - Data Privacy Policy" />
+    <meta
+      property="og:description"
+      content="Data Privacy Policy"
+    />
+    <meta property="og:image" content="shared.png" />
+    <meta property="og:url" content="https://antennagames.com" />
+    <meta name="twitter:card" content="summary_large_image" />
+  </head>
+  <body>
+    <div class="navbar">
+      <h1 class="maintitle"><b>ANTENNA GAMES</b></h1>
+<nav>
+  <a href="index.html#about">ABOUT</a>
+  <a href="index.html#games">MY GAMES</a>
+  <a href="index.html#socialmedia">SOCIAL MEDIA</a>
+  <a href="index.html#contact">CONTACT</a>
+</nav>
+    </div>
+
+    <section id="about">
+      <div>
+<h1>Privacy Policy | Frog Fly</h1>
+<div class="date">Effective Date: January 1, 2025</div>
+<div class="date">Last updated: June 8, 2026</div>
+
+
+<p>
+<strong>Antenna Games</strong> ("we," "our" or "us") respects your privacy. This Privacy Policy explains how data is handled in "Ogre Chambers 2222", our PC game available on Steam.
+</p>
+
+<h2>Data We Collect</h2>
+<p>
+Our game collects and saves into a Firebase database following player data: Highscores and Steam-usernames. The saved data is shown to other players to provide online leaderboard functionality for the game. This data is only collected for leaderboards functionality for the game and is not used for anything else.
+</p>
+
+<h2>Children’s Privacy</h2>
+<p>
+Our game does not knowingly collect personal information from children. Ogre Chambers 2222 is not intended for children under 13.
+</p>
+
+<h2>Changes to This Policy</h2>
+<p>
+We may update this Privacy Policy from time to time. Any changes will be posted with an updated date.
+</p>
+
+<h2>Contact</h2>
+<p>
+If you have questions about this Privacy Policy, please contact us at <strong>antennagames.help@gmail.com</strong> with the email subject line <strong>“Privacy Policy Question”</strong>.
+</p>
+</p>
+      </div>
+    </section>
+
+  </body>
+</html>
